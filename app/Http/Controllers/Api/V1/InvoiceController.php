@@ -51,6 +51,9 @@ class InvoiceController extends Controller
     {
         //
     }
+    public function bulkStore(Request $request){
+
+    }
 
     /**
      * Display the specified resource.
